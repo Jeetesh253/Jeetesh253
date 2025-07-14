@@ -7,7 +7,9 @@
 
 🏀 Apart from technical interests: You’ll find me playing basketball, chess, badminton, or watching movies
 
-📫 How to reach me: jeetesh.saini@outlook.com
+📫 How to reach me: 
+jeetesh.saini@outlook.com
+https://www.linkedin.com/in/jeetesh-s-9b74141ba/
 <!--
 **Jeetesh253/Jeetesh253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
