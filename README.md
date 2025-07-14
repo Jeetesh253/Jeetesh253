@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+💡 Hi, I'm Jeetesh Saini – a B.Tech graduate in Computer Science from JUIT
+🌱 Specialized in Artificial Intelligence & Machine Learning
+🚀 Currently exploring GenAI and building real-world AI solutions
+🏀 Apart from technical interests: You’ll find me playing basketball, chess, badminton, or watching movies
+📫 Let's connect and build something impactful
 <!--
 **Jeetesh253/Jeetesh253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
